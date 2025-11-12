@@ -1,0 +1,20 @@
+.DS_Store
+node_modules
+/.svelte-kit
+/package
+.env
+.env.*
+!.env.example
+vite.config.js.timestamp-*
+vite.config.ts.timestamp-*
+/build
+
+# Rust/Cargo
+/target/
+**/target/
+**/*.rs.bk
+
+# Tauri
+/src-tauri/target/
+
+.serena

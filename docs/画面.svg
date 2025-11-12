@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e94, 2025-05-08)"
+   sodipodi:docname="画面.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.76167929"
+     inkscape:cx="531.06341"
+     inkscape:cy="426.03232"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="936"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer4" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient4"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop4" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop5" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4"
+       id="linearGradient5"
+       x1="94.447587"
+       y1="209.28985"
+       x2="272.4415"
+       y2="209.28985"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="背景"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <rect
+       style="display:inline;fill:#ffffff;stroke-width:0.264583"
+       id="rect1"
+       width="297"
+       height="210"
+       x="-1.7321659e-07"
+       y="0.021709511"
+       inkscape:label="rect1"
+       sodipodi:insensitive="true" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Drop"
+     style="display:inline;fill:none">
+    <rect
+       style="fill:none;stroke:#0000ff;stroke-width:1.03781;stroke-linejoin:round;stroke-miterlimit:17.3;stroke-dasharray:8.30245, 4.15122;stroke-dashoffset:0.622684;stroke-opacity:1"
+       id="rect2"
+       width="287.23587"
+       height="199.00429"
+       x="4.187324"
+       y="4.882061"
+       ry="0" />
+    <rect
+       style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.506864;stroke-linejoin:round;stroke-miterlimit:17.3;stroke-dasharray:4.05489, 2.02745;stroke-dashoffset:0.304117;stroke-opacity:1"
+       id="rect2-3"
+       width="271.78787"
+       height="50.166813"
+       x="11.113081"
+       y="137.78566"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.2213px;font-family:'Noto Serif JP';-inkscape-font-specification:'Noto Serif JP';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.7;stroke-linejoin:round;stroke-miterlimit:17.3;stroke-dasharray:none;stroke-dashoffset:10.8759;stroke-opacity:1"
+       x="56.233395"
+       y="207.34781"
+       id="text2"
+       transform="scale(1.0395619,0.96194368)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.2213px;font-family:'Noto Serif JP';-inkscape-font-specification:'Noto Serif JP';fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.7;stroke-dasharray:none;stroke-dashoffset:10.8759;stroke-opacity:1"
+         x="56.233395"
+         y="207.34781"
+         id="tspan3">Drop a ZIP file here to start.</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="タイトル"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.2787px;font-family:'Noto Serif JP';-inkscape-font-specification:'Noto Serif JP';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#0d0404;stroke-width:1.5275;stroke-linejoin:round;stroke-miterlimit:17.3;stroke-dasharray:none;stroke-dashoffset:4.53545;stroke-opacity:1"
+       x="57.022812"
+       y="26.448845"
+       id="text5"
+       transform="scale(0.92220005,1.0843634)"><tspan
+         sodipodi:role="line"
+         id="tspan5"
+         style="stroke-width:1.5275;stroke-dasharray:none"
+         x="57.022812"
+         y="26.448845">GNB-ZipImageCompressor</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="コンポーネント">
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#0d0404;stroke-width:1.08491;stroke-linejoin:round;stroke-miterlimit:17.3;stroke-dasharray:none;stroke-dashoffset:4.53545;stroke-opacity:1"
+       id="rect7"
+       width="178.1151"
+       height="22.494041"
+       x="99.042442"
+       y="40.337189"
+       ry="4.1527462" />
+    <text
+       xml:space="preserve"
+       style="fill:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.9781px;font-family:'Noto Serif JP';-inkscape-font-specification:'Noto Serif JP';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill-opacity:1;stroke:#0d0404;stroke-width:0.55656;stroke-linejoin:round;stroke-miterlimit:17.3;stroke-dasharray:none;stroke-dashoffset:4.53545;stroke-opacity:1"
+       x="19.061712"
+       y="48.420376"
+       id="text6"
+       transform="scale(0.84987074,1.1766495)"><tspan
+         sodipodi:role="line"
+         id="tspan6"
+         style="stroke-width:0.55656;stroke-dasharray:none"
+         x="19.061712"
+         y="48.420376">出力フォルダ： </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.55656;stroke-dasharray:none"
+         x="19.061712"
+         y="65.892998"
+         id="tspan7" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.9781px;font-family:'Noto Serif JP';-inkscape-font-specification:'Noto Serif JP';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#0d0404;stroke-width:0.55656;stroke-linejoin:round;stroke-miterlimit:17.3;stroke-dasharray:none;stroke-dashoffset:4.53545;stroke-opacity:1"
+       x="45.857986"
+       y="72.647209"
+       id="text6-1"
+       transform="scale(0.84987075,1.1766495)"><tspan
+         sodipodi:role="line"
+         id="tspan6-7"
+         style="stroke-width:0.55656;stroke-dasharray:none"
+         x="45.857986"
+         y="72.647209">解凍 </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.55656;stroke-dasharray:none"
+         x="45.857986"
+         y="90.119835"
+         id="tspan7-1" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.9781px;font-family:'Noto Serif JP';-inkscape-font-specification:'Noto Serif JP';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#0d0404;stroke-width:0.55656;stroke-linejoin:round;stroke-miterlimit:17.3;stroke-dasharray:none;stroke-dashoffset:4.53545;stroke-opacity:1"
+       x="45.803833"
+       y="91.706017"
+       id="text6-1-5"
+       transform="scale(0.84987075,1.1766495)"><tspan
+         sodipodi:role="line"
+         id="tspan6-7-7"
+         style="stroke-width:0.55656;stroke-dasharray:none"
+         x="45.803833"
+         y="91.706017">変換</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.55656;stroke-dasharray:none"
+         x="45.803833"
+         y="109.17864"
+         id="tspan7-1-6" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.9781px;font-family:'Noto Serif JP';-inkscape-font-specification:'Noto Serif JP';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#0d0404;stroke-width:0.55656;stroke-linejoin:round;stroke-miterlimit:17.3;stroke-dasharray:none;stroke-dashoffset:4.53545;stroke-opacity:1"
+       x="45.513546"
+       y="109.72813"
+       id="text6-1-7"
+       transform="scale(0.84987075,1.1766495)"><tspan
+         sodipodi:role="line"
+         id="tspan6-7-9"
+         style="stroke-width:0.55656;stroke-dasharray:none"
+         x="45.513546"
+         y="109.72813">圧縮</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.55656;stroke-dasharray:none"
+         x="45.513546"
+         y="127.20075"
+         id="tspan7-1-5" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.9781px;font-family:'Noto Serif JP';-inkscape-font-specification:'Noto Serif JP';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.55656;stroke-linejoin:round;stroke-miterlimit:17.3;stroke-dasharray:none;stroke-dashoffset:4.53545;stroke-opacity:1"
+       x="120.94281"
+       y="144.40361"
+       id="text6-1-7-3"
+       transform="scale(0.84987075,1.1766495)"><tspan
+         sodipodi:role="line"
+         id="tspan6-7-9-8"
+         style="stroke-width:0.55656;stroke-dasharray:none;stroke:#ff0000;fill:#ff0000"
+         x="120.94281"
+         y="144.40361">メッセージエリア</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.55656;stroke-dasharray:none;stroke:#ff0000;fill:#ff0000"
+         x="120.94281"
+         y="161.87624"
+         id="tspan7-1-5-7" /></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#0d0404;stroke-width:1.08491;stroke-linejoin:round;stroke-miterlimit:17.3;stroke-dasharray:none;stroke-dashoffset:4.53545;stroke-opacity:1"
+       id="rect7-8"
+       width="15.546679"
+       height="13.809831"
+       x="14.794208"
+       y="72.143883"
+       ry="0" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#0d0404;stroke-width:1.08491;stroke-linejoin:round;stroke-miterlimit:17.3;stroke-dasharray:none;stroke-dashoffset:4.53545;stroke-opacity:1"
+       id="rect7-8-6"
+       width="15.546679"
+       height="13.809831"
+       x="14.463068"
+       y="93.839714"
+       ry="0" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#ccff00;stroke-width:2.1;stroke-linejoin:round;stroke-miterlimit:17.3;stroke-dasharray:none;stroke-dashoffset:4.53545;stroke-opacity:1"
+       d="m 17.021053,77.115788 c 0.763524,1.781559 0.681557,2.421694 2.08421,3.473686 0.09263,0.06947 0.265493,-0.08188 0.347368,0 0.423089,0.423087 0.162715,0.776094 0.694737,1.042103 0.479145,0.239573 0.310712,-0.420682 0.694737,0.347369 0.104866,0.209733 -0.160576,0.881531 0,1.042107 0.327502,0.327501 1.061972,0.327501 1.389474,0 0.248061,-0.248063 1.520749,-5.735633 1.736842,-6.600003 0.05617,-0.224663 -0.144666,-0.513902 0,-0.694734 0.691996,-0.864997 3.207025,-2.645619 4.168421,-3.126317 0.511757,-0.255879 1.804855,-0.136028 2.08421,-0.694738 0.185264,-0.370525 -0.185264,-1.018947 0,-1.389472 0.05178,-0.103566 0.265493,0.08187 0.347369,0 0.08188,-0.08188 -0.08188,-0.265494 0,-0.347369 0.75802,-0.758021 1.042106,-0.148601 1.042106,-1.389473"
+       id="path9" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#0d0404;stroke-width:1.08491;stroke-linejoin:round;stroke-miterlimit:17.3;stroke-dasharray:none;stroke-dashoffset:4.53545;stroke-opacity:1"
+       id="rect7-8-2"
+       width="15.546679"
+       height="13.809831"
+       x="14.90616"
+       y="115.00803"
+       ry="0" />
+  </g>
+</svg>
