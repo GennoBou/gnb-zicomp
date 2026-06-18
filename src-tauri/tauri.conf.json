@@ -12,7 +12,8 @@
   "app": {
     "windows": [
       {
-        "title": "gnb-zicomp",
+        "label": "main",
+        "title": "GNB ZipImageCompressor",
         "width": 800,
         "height": 600,
         "minWidth": 640,
@@ -26,13 +27,23 @@
   },
   "bundle": {
     "active": true,
-    "targets": "all",
+    "targets": ["msi"],
     "icon": [
-      "icons/32x32.png",
-      "icons/128x128.png",
-      "icons/128x128@2x.png",
-      "icons/icon.icns",
+      "icons/gen_x128.png",
       "icons/icon.ico"
     ]
+  },
+  "plugins": {
+    "cli": {
+      "args": [
+        {
+          "name": "files",
+          "description": "処理するファイル（複数可）",
+          "takesValue": true,
+          "multiple": true,
+          "index": 1
+        }
+      ]
+    }
   }
 }
